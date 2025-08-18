@@ -1,0 +1,12 @@
+print(11+10-1000)
+print(11+1.6*2.4)
+print(True)
+print(False)
+print("""Python""")
+
+int()
+float()
+str()
+bool()
+list() 
+dict()
